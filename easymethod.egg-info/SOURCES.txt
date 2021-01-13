@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+easymethod.egg-info/PKG-INFO
+easymethod.egg-info/SOURCES.txt
+easymethod.egg-info/dependency_links.txt
+easymethod.egg-info/top_level.txt
+method/__init__.py
+method/easymethod.py
+method/config/data.txt
+method/config/data.xlsx
+method/log/log.txt
